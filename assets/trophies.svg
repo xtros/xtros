@@ -1,0 +1,116 @@
+<svg viewBox="0 0 900 220" width="900" height="220" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',monospace">
+  <rect width="900" height="220" rx="14" fill="#050505" stroke="#ffffff" stroke-opacity="0.25"/>
+  <g transform="translate(20,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.0s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.0s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Stars</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">S
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip0"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip0)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.0s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(146,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.15s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.15s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Commits</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">A+
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.15s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip1"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip1)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.15s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(272,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.3s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">PRs</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">A
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip2"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip2)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(398,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.44999999999999996s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.44999999999999996s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Issues</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">B+
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.44999999999999996s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip3"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip3)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.45s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(524,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.6s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.6s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Repos</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">A
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip4"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip4)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(650,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.75s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.75s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Followers</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">C
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.75s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip5"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip5)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.75s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g><g transform="translate(776,40)">
+    <g transform="scale(0)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" values="0;1.08;1" keyTimes="0;0.7;1" dur="0.55s" begin="0.8999999999999999s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.8999999999999999s" fill="freeze"/>
+      <rect width="118" height="150" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="59.0" y="30" text-anchor="middle" font-size="10.5" fill="#9a9a9a" font-family="'JetBrains Mono',monospace">Experience</text>
+      <text x="59.0" y="90" text-anchor="middle" font-size="30" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">AAA
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.8999999999999999s" repeatCount="indefinite"/>
+      </text>
+      <clipPath id="clip6"><rect width="118" height="150" rx="10"/></clipPath>
+      <g clip-path="url(#clip6)">
+        <rect x="-40" y="0" width="30" height="150" fill="#ffffff" opacity="0.08" transform="skewX(-20)">
+          <animate attributeName="x" values="-40;138" dur="2.6s" begin="1.9s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+</svg>

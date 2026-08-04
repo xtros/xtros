@@ -1,0 +1,43 @@
+<svg viewBox="0 0 480 220" width="480" height="220" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',monospace">
+  <defs>
+    <filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="480" height="220" rx="14" fill="#050505" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="22" y="30" font-size="14" fill="#ffffff" font-weight="bold">GitHub Stats</text>
+
+  <g transform="translate(95,120)">
+    <circle r="62" fill="none" stroke="#1c1c1c" stroke-width="10"/>
+    <circle r="62" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"
+      stroke-dasharray="389.5" stroke-dashoffset="389.5" transform="rotate(-90)" style="filter:url(#g)">
+      <animate attributeName="stroke-dashoffset" values="389.5;90" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </circle>
+    <text x="0" y="-4" text-anchor="middle" font-size="22" fill="#ffffff" font-weight="bold">A+</text>
+    <text x="0" y="16" text-anchor="middle" font-size="10" fill="#9a9a9a">RANK</text>
+  </g>
+
+  <g transform="translate(210,54)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="260,54; 210,54" dur="0.5s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <text x="0" y="0" font-size="12.5" fill="#c9c9c9" font-family="'JetBrains Mono',monospace">Total Stars</text>
+    <text x="240" y="0" text-anchor="end" font-size="13" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">7</text>
+    <line x1="0" y1="10" x2="240" y2="10" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g><g transform="translate(210,88)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.44999999999999996s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="260,88; 210,88" dur="0.5s" begin="0.44999999999999996s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <text x="0" y="0" font-size="12.5" fill="#c9c9c9" font-family="'JetBrains Mono',monospace">Total Commits</text>
+    <text x="240" y="0" text-anchor="end" font-size="13" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">640+</text>
+    <line x1="0" y1="10" x2="240" y2="10" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g><g transform="translate(210,122)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="260,122; 210,122" dur="0.5s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <text x="0" y="0" font-size="12.5" fill="#c9c9c9" font-family="'JetBrains Mono',monospace">Total PRs</text>
+    <text x="240" y="0" text-anchor="end" font-size="13" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">12</text>
+    <line x1="0" y1="10" x2="240" y2="10" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g><g transform="translate(210,156)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.75s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="260,156; 210,156" dur="0.5s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <text x="0" y="0" font-size="12.5" fill="#c9c9c9" font-family="'JetBrains Mono',monospace">Total Repos</text>
+    <text x="240" y="0" text-anchor="end" font-size="13" fill="#ffffff" font-weight="bold" font-family="'JetBrains Mono',monospace">15</text>
+    <line x1="0" y1="10" x2="240" y2="10" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g>
+</svg>

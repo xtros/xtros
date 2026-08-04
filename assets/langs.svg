@@ -1,0 +1,47 @@
+<svg viewBox="0 0 480 220" width="480" height="220" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',monospace">
+  <rect width="480" height="220" rx="14" fill="#050505" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="22" y="30" font-size="14" fill="#ffffff" font-weight="bold">Most Used Languages</text>
+  <g transform="translate(22,54)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">JavaScript</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">34%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;129.2" dur="1.1s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g><g transform="translate(22,82)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">Python</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">26%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;98.8" dur="1.1s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g><g transform="translate(22,110)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">TypeScript</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">16%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;60.8" dur="1.1s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g><g transform="translate(22,138)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">HTML</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">12%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;45.6" dur="1.1s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g><g transform="translate(22,166)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">CSS</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">8%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;30.4" dur="1.1s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g><g transform="translate(22,194)">
+    <text x="0" y="0" font-size="12" fill="#d8d8d8">Other</text>
+    <text x="380" y="0" text-anchor="end" font-size="11" fill="#8f8f8f">4%</text>
+    <rect x="0" y="8" width="380" height="7" rx="3.5" fill="#1a1a1a"/>
+    <rect x="0" y="8" width="0" height="7" rx="3.5" fill="#ffffff" opacity="0.9">
+      <animate attributeName="width" values="0;15.2" dur="1.1s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g>
+</svg>
